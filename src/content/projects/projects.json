@@ -1,10 +1,28 @@
 [
   {
     "name": "RAWLAB_",
-    "status": "active"
+    "status": "active",
+    "type": "Platform",
+    "description": "Personal digital archive and creative laboratory.",
+    "url": "https://rawlab.space"
   },
   {
     "name": "ENRA",
-    "status": "active"
+    "status": "active",
+    "type": "AI Assistant",
+    "description": "Personal AI operating system.",
+    "url": "https://github.com/RAWLABdev/enra-neural-core"
+  },
+  {
+    "name": "Integrapp",
+    "status": "completed",
+    "type": "Mobile",
+    "description": "Mobile platform for Fundación Integra."
+  },
+  {
+    "name": "Banco de Chile",
+    "status": "completed",
+    "type": "Enterprise",
+    "description": "React Native development and design system contributions."
   }
 ]

@@ -9,13 +9,11 @@ export default function Home() {
             RAWLAB SYSTEM
           </p>
 
-          <h1 className="mb-6 text-6xl font-bold">
-            RAWLAB OS
-          </h1>
+          <h1 className="mb-6 text-6xl font-bold">RAWLAB OS</h1>
 
           <p className="max-w-2xl text-lg text-zinc-400">
-            A personal operating system for building,
-            moving, exploring and documenting the process.
+            A personal operating system for building, moving, exploring and
+            documenting the process.
           </p>
         </div>
 
@@ -23,28 +21,30 @@ export default function Home() {
           <SectionCard
             title="BUILD"
             description="Projects, products and experiments."
+            href="/projects"
           />
 
           <SectionCard
             title="MOVE"
             description="Climbing, training and movement."
+            href="/climbing"
           />
 
           <SectionCard
             title="EXPLORE"
             description="Journal, notes and ideas."
+            href="/journal"
           />
 
           <SectionCard
             title="GROW"
             description="Metrics, goals and progress."
+            href="/growth"
           />
         </div>
 
         <div className="mt-20">
-          <h2 className="mb-6 text-2xl font-bold">
-            Current Focus
-          </h2>
+          <h2 className="mb-6 text-2xl font-bold">Current Focus</h2>
 
           <ul className="space-y-3 text-zinc-400">
             <li>→ ENRA</li>
