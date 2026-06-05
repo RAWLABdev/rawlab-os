@@ -1,0 +1,16 @@
+[
+  {
+    "id": "NURIA-001",
+    "title": "Paseo con Nuria",
+    "category": "nuria",
+    "type": "video",
+    "date": "2026-06-06",
+    "status": "unpublished",
+    "tags": [
+      "dog",
+      "walk",
+      "outdoor"
+    ],
+    "notes": "Video sin editar del paseo."
+  }
+]
