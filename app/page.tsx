@@ -41,6 +41,11 @@ export default function Home() {
             description="Metrics, goals and progress."
             href="/growth"
           />
+          <SectionCard
+            title="ASSETS"
+            description="Photos, videos and content library."
+            href="/assets"
+          />
         </div>
 
         <div className="mt-20">
